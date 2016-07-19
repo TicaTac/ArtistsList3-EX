@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Artists List</string>
+    <string name="artists_list">Artists List</string>
+    <string name="help">Help</string>
+    <string name="new_artist">New Artist</string>
+
+
+</resources>
